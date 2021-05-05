@@ -10991,8 +10991,8 @@ button.owl-next {
   font-weight: 700; }
 
 .w3l-index-block4 .icon {
-  background: rgba(168, 54, 49, 0.04);
-  padding: 2rem;
+  background: rgba(255, 255, 255, 0.04);
+  /*padding: 2rem;*/
   display: inline-block;
   border-radius: 50%; }
 
